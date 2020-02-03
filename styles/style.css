@@ -21,7 +21,7 @@ h1 {
 .icons a {
     border: 1px solid white;
     color: white;
-    border-radius: 20%;
+    border-radius: 30%;
     padding: 0.6rem;
     margin: 0.25rem;
 }
@@ -29,4 +29,8 @@ h1 {
 .icons a:hover {
     color: #ed53cc ;
     border: 1px solid #ed53cc;
+}
+
+.fa-facebook-f {
+    padding: 0.2rem;
 }
