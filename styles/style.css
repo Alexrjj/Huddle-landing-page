@@ -10,6 +10,18 @@ h1 {
     font-weight: bold;
 }
 
+header {
+    padding: 3.5rem;
+}
+
+header img {
+    height: 3.5rem;
+}
+
+.illustr-img {
+    padding: 1.2rem 0 0 3.9rem;
+}
+
 .reg-button {
     box-shadow: 2px 5px 8px 1px darkslateblue;
     color: #674baf;
