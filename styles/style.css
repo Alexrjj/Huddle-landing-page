@@ -10,8 +10,31 @@ h1 {
     font-weight: bold;
 }
 
+.reg-button {
+    box-shadow: 2px 5px 8px 1px darkslateblue;
+    color: #674baf;
+    background-color: white;
+    padding: 0.7rem 3.5rem;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+.reg-button:hover {
+    color: white;
+    background-color: #e052d4;
+}
+
+.reg-button:focus {
+    color: white;
+    background-color: #e052d4;
+}
+
 .attribution {
     text-align: center;
+}
+
+.attribution a {
+    color: #e052d4;
 }
 
 .icons {
@@ -27,8 +50,8 @@ h1 {
 }
 
 .icons a:hover {
-    color: #ed53cc ;
-    border: 1px solid #ed53cc;
+    color: #e052d4;
+    border: 1px solid #e052d4;
 }
 
 .fa-facebook-f {
