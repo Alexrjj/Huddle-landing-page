@@ -18,14 +18,15 @@ h1 {
     text-align: right;
 }
 
-.icons i {
+.icons a {
     border: 1px solid white;
+    color: white;
     border-radius: 20%;
     padding: 0.6rem;
     margin: 0.25rem;
 }
 
-.icons i:hover {
+.icons a:hover {
     color: #ed53cc ;
     border: 1px solid #ed53cc;
 }
