@@ -1,5 +1,6 @@
 body {
-    background: hsl(257, 40%, 49%) url("../images/bg-desktop.svg") fixed no-repeat;
+    background: hsl(257, 40%, 49%) url("../images/bg-desktop.svg") right fixed no-repeat;
+    background-size: cover;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: white;
@@ -9,7 +10,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     line-height: 1.5;
-    padding-top: 4rem;
+    padding: 2.5rem 0 0.5rem 0;
 }
 
 header {
@@ -21,7 +22,19 @@ header img {
 }
 
 .illustr-img {
-    padding: 1.2rem 0 0 3.9rem;
+    padding: 2.5rem 1rem 0 3.5rem;
+}
+
+.illustr-img img {
+    height: 80%;
+}
+
+.description {
+    padding: 2.5rem;
+}
+
+.description p {
+    padding-bottom: 0.5rem;
 }
 
 .reg-button {
@@ -55,6 +68,7 @@ header img {
 
 .icons {
     text-align: right;
+    padding-right: 4rem;
 }
 
 .icons a {
