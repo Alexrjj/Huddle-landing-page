@@ -108,7 +108,7 @@ header img {
     }
 
     .title {
-        padding: 4rem 2rem 1.3rem 2rem;
+        padding: 4rem 1rem 1.3rem 1rem;
         margin: 0;
         font-size: 2rem;
     }
@@ -119,7 +119,7 @@ header img {
     }
 
     .description p {
-        padding: 0 2rem 1.3rem 2rem
+        padding: 0 1rem 1.3rem 1rem
     }
 
     .icons {
