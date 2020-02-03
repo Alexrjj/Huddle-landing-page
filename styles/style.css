@@ -9,3 +9,23 @@ h1 {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
+
+.attribution {
+    text-align: center;
+}
+
+.icons {
+    text-align: right;
+}
+
+.icons i {
+    border: 1px solid white;
+    border-radius: 20%;
+    padding: 0.6rem;
+    margin: 0.25rem;
+}
+
+.icons i:hover {
+    color: #ed53cc ;
+    border: 1px solid #ed53cc;
+}
