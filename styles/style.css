@@ -28,6 +28,7 @@ header img {
     box-shadow: 2px 5px 8px 1px darkslateblue;
     color: #674baf;
     background-color: white;
+    border-color: #674baf;
     padding: 0.7rem 3.5rem;
     border-radius: 30px;
     font-weight: 600;
@@ -36,6 +37,7 @@ header img {
 .reg-button:hover {
     color: white;
     background-color: #e052d4;
+    border-color: #674baf;
 }
 
 .reg-button:focus {
