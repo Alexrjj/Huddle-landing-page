@@ -5,9 +5,11 @@ body {
     color: white;
 }
 
-h1 {
+.title {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    line-height: 1.5;
+    padding-top: 4rem;
 }
 
 header {
