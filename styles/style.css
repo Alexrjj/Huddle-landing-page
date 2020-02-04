@@ -101,20 +101,21 @@ header img {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 998px) {
     header img {
-        width: 50%;
+        width: 60%;
     }
 
     .illustr-img img {
-        max-width:80%;
+        padding-top: 0;
+        max-width:50%;
         height:auto;
     }
 
     .title {
         padding: 4rem 0 1.3rem 0;
         margin: 0;
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .description {
